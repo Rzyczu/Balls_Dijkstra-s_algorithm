@@ -1,0 +1,9 @@
+    {
+        "name": "Projekt - Kulki",
+        "entryPoints": [
+            "src/index.ts",
+            "src/componens/pathFinder.ts",
+            "src/componens/Game.ts"
+        ],
+        "out": "docs"
+    }
