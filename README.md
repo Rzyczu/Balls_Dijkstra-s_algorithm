@@ -14,9 +14,6 @@ Clone the project
   git clone https://github.com/Rzyczu/Balls_Dijkstra-s_algorithm.git
 ```
 
-//## Screenshots
-//![image](https://github.com/Rzyczu/Labirintum_Maze_Game/assets/70780585/bb6ccfc4-12c3-4331-8e9c-96c614d28bef)
-
 
 
 
